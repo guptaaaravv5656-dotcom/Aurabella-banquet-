@@ -1,0 +1,6 @@
+{
+  "name": "Aurabella Banquet - Luxury Event Venue in Gwalior",
+  "description": "Celebrate life's beautiful moments at Aurabella Banquet, City Center, Gwalior. Premium banquet hall for weddings, engagements, anniversaries, and family celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
